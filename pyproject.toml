@@ -5,7 +5,7 @@ description = "Write Python code objects to .pyc files"
 readme = "README.md"
 requires-python = ">=3.8"
 authors = [
-    {name = "Joakim Lönnergen", email = "joakimlonnegren@gmail.com"}
+    {name = "Joakim Lönnegren", email = "joakimlonnegren@gmail.com"}
 ]
 keywords = ["pyc"]
 dependencies = []
