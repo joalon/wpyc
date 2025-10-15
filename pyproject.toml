@@ -9,6 +9,13 @@ authors = [
 ]
 keywords = ["pyc"]
 dependencies = []
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICENSE"]
+
 
 [dependency-groups]
 dev = [
